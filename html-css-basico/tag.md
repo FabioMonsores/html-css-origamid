@@ -34,9 +34,7 @@ Através das marcações das tags que conseguimos selecionar elementos para muda
 
 Um sinal de maior errado e o seu código para de funcionar.
 
-Espaços e Quebras de Linha
-
-Geralmente são ignorados quando adicionados mais de um.
+Espaços e Quebras de Linha geralmente são ignorados quando adicionados mais de um.
 
 ## Indentação
 
