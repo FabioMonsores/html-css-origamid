@@ -42,4 +42,4 @@ Serve para organizarmos o código alinhando a abertura de um elemento com o seu 
 
 ## Caracteres Especiais
 
-Evite caracteres especiais (á, é, ç e outros) principalmente no nome de arquivos. Substitua espaços por traços (-) ou underlines `(\_)`.
+Evite caracteres especiais (á, é, ç e outros) principalmente no nome de arquivos. Substitua espaços por traços `(-)` ou underlines `(_)`.
