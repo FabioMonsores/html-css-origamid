@@ -43,3 +43,23 @@ Serve para organizarmos o código alinhando a abertura de um elemento com o seu 
 ## Caracteres Especiais
 
 Evite caracteres especiais (á, é, ç e outros) principalmente no nome de arquivos. Substitua espaços por traços `(-)` ou underlines `(_)`.
+
+# Tags Iniciais
+
+## p
+
+Marca um parágrafo.
+
+## h1, h2, h3, h4, h5, h6
+
+Marcam diferentes níveis de títulos.
+
+## a
+
+Marca um link.
+
+# Tag dentro de Tag
+
+A primeira que abre será sempre a última a fechar.
+
+`<p>Entre no meu site: <a href="https://www.origamid.com">origamid.com</a></p>`
