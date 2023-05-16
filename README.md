@@ -2,6 +2,6 @@
 
 ## Vá direto a teoria
 
-[Anatomia da Tag](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/tag.md)
+ * **[Anatomia da Tag](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/tag.md)**
 
-[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/estrutura-html.md)
+* **[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/estrutura-html.md)**
