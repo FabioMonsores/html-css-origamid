@@ -4,4 +4,4 @@
 
  * **[Anatomia da Tag](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/Teoria/tag.md)**
 
-* **[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/estrutura-html.md)**
+* **[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/estrutura.html)**
