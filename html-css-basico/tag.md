@@ -4,7 +4,7 @@
 
 As tag's (etiquetas) servem para marcarmos o conteúdo no HTML. Geralmente abrimos ` <a>` e fechamos `</a>` após o conteúdo.
 
-case insensitive, mas é boa prática escrever com minúsculas `<html>`.
+HTML é case insensitive(tanto faz escrever em maiúsculo ou minúsculo), mas é boa prática escrever com minúsculas `<html>`.
 
 ## Atributo
 
@@ -62,4 +62,6 @@ Marca um link.
 
 A primeira que abre será sempre a última a fechar.
 
-`<p>Entre no meu site: <a href="https://www.origamid.com">origamid.com</a></p>`
+```html
+<p>Entre no meu site: <a href="https://www.origamid.com">origamid.com</a></p>
+```
