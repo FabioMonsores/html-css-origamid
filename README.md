@@ -2,4 +2,6 @@
 
 ## Vá direto a teoria
 
-[Tags]([http://exemplo.com/](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/tag.md))
+[Tags](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/tag.md)
+
+[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/estrutura-html.md)
