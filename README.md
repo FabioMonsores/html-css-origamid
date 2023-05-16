@@ -2,6 +2,8 @@
 
 ## Vá direto a teoria
 
- * **[Anatomia da Tag](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/Teoria/tag.md)**
+ * **[Anatomia da Tag](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/1-tag/tag.md)**
 
-* **[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/estrutura.html)**
+* **[Estrutura HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/2-estrutura-basica-html/estrutura-html.md)**
+
+* **[Links Caminhos](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/3-links-caminhos/links-caminhos.md)** 
