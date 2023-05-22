@@ -8,4 +8,4 @@
 
 * **[Links Caminhos](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/3-links-caminhos/links-caminhos.md)** 
 
-* **[CSS Basico](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/4-css-basico/css-basico.md)**
+* **[CSS Básico](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/4-css-basico/css-basico.md)**
