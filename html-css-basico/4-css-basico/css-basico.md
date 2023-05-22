@@ -49,4 +49,6 @@ a {
 a {
   color: tomato;
 }
+
+/*Irá aplicar a cor tomato*/
 ```
