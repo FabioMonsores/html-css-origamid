@@ -1,0 +1,11 @@
+a {
+  color: black; /*cor da fonte*/
+  text-decoration: none; /*tira o sublinhado do link*/
+}
+
+/* Posso ter mais um "a" e aplicar um novo estilo */
+
+a {
+  color: tomato;
+  font-size: 32px;
+}
