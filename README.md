@@ -11,3 +11,5 @@
 * **[CSS Básico](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/4-css-basico/css-basico.md)**
 
 * **[Seletores CSS](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/5-seletores-css/seletores.md)** 
+
+* **[Exercício HTML](https://github.com/FabioMonsores/html-css-origamid/blob/main/html-css-basico/html-exercicio/exercicio.md)**
